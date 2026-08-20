@@ -47,14 +47,6 @@
 
 <br/>
 
-<div align="center">
-
-<img src="https://lanyard-profile-readme.vercel.app/api/1328758394588500024?theme=dark&bg=050505&animated=true" />
-
-</div>
-
-<br/>
-
 ## 📊 Statystyki
 
 <div align="center">
