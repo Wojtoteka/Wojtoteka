@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:134e4a,100:0f766e&height=200&section=header&text=Cze%C5%9B%C4%87,%20jestem%20Wojtek%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="" />
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Ucze%C5%84+si%C4%99+programowania+%F0%9F%92%BB;Elektronik+%40+CKZiU+nr+2+Zielona+G%C3%B3ra;Front-end+%2B+back-end+%2B+bazy+danych&font=Fira%20Code&size=20&pause=1500&color=2DD4BF&center=true&vCenter=true&width=600" alt="Uczeń się programowania" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Ucze%C5%84+si%C4%99+programowania+%F0%9F%92%BB;Elektronik+%40+CKZiU+nr+2+Zielona+G%C3%B3ra;Front-end+%2B+back-end+%2B+bazy+danych&font=Fira%20Code&size=20&pause=1500&color=2DD4BF&center=true&vCenter=true&width=600" alt="Uczę się programowania" />
 
 <br/>
 
