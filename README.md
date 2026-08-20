@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/15_LAT-f59e0b?style=for-the-badge" />
+<img src="https://img.shields.io/badge/14_LAT-f59e0b?style=for-the-badge" />
 <img src="https://img.shields.io/badge/ZIELONA%20G%C3%93RA-22c55e?style=for-the-badge" />
 <img src="https://img.shields.io/badge/CKZiU%20ELEKTRONIK-3b82f6?style=for-the-badge" />
 
@@ -43,6 +43,12 @@
 <img src="https://img.shields.io/badge/Email-kontakt%40wojtoteka.ovh-050505?style=for-the-badge&logo=gmail&logoColor=2DD4BF" />
 </a>
 <img src="https://img.shields.io/badge/Discord-wojtoteka__-050505?style=for-the-badge&logo=discord&logoColor=2DD4BF" />
+<a href="https://play.google.com/store/apps/developer?id=Wojtoteka">
+<img src="https://img.shields.io/badge/Google%20Play-Wojtoteka-050505?style=for-the-badge&logo=googleplay&logoColor=2DD4BF" />
+</a>
+<a href="https://wojtoteka.ovh/gry">
+<img src="https://img.shields.io/badge/Moje%20Gry-wojtoteka.ovh%2Fgry-050505?style=for-the-badge&logo=googlechrome&logoColor=2DD4BF" />
+</a>
 
 </div>
 
@@ -54,6 +60,17 @@
 
 <img src="https://img.shields.io/github/followers/Wojtoteka?style=for-the-badge&logo=github&label=Obserwuj%C4%85cy&color=050505&labelColor=050505&logoColor=2DD4BF" />
 <img src="https://komarev.com/ghpvc/?username=Wojtoteka&style=for-the-badge&color=050505&label=Wy%C5%9Bwietlenia+profilu" />
+
+</div>
+
+<br/>
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wojtoteka&show_icons=true&count_private=true&hide_border=true&bg_color=050505&title_color=2DD4BF&icon_color=2DD4BF&text_color=ffffff" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wojtoteka&layout=compact&hide_border=true&bg_color=050505&title_color=2DD4BF&text_color=ffffff" />
 
 </div>
 
