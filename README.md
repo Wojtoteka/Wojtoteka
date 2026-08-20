@@ -69,8 +69,8 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wojtoteka&show_icons=true&count_private=true&hide_border=true&bg_color=050505&title_color=2DD4BF&icon_color=2DD4BF&text_color=ffffff" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wojtoteka&layout=compact&hide_border=true&bg_color=050505&title_color=2DD4BF&text_color=ffffff" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Wojtoteka&show_icons=true&count_private=true&hide_border=true&bg_color=050505&title_color=2DD4BF&icon_color=2DD4BF&text_color=ffffff" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Wojtoteka&layout=compact&hide_border=true&bg_color=050505&title_color=2DD4BF&text_color=ffffff" />
 
 </div>
 
