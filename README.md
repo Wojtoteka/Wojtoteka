@@ -51,9 +51,7 @@
 <a href="https://wojtoteka.ovh/gry">
 <img src="https://img.shields.io/badge/Moje%20Gry-wojtoteka.ovh%2Fgry-050505?style=for-the-badge&logo=googlechrome&logoColor=2DD4BF" />
 </a>
-<a href="https://wojtoteka.github.io/Wojtoteka/">
-<img src="https://img.shields.io/badge/Wiek%20na%20%C5%BCywo-wojtoteka.github.io-050505?style=for-the-badge&logo=clockify&logoColor=2DD4BF" />
-</a>
+
 
 </div>
 
