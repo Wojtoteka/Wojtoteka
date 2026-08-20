@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="https://wojtoteka.github.io/Wojtoteka/"><img src="https://wiek-gh-1.vercel.app/api/wiek" height="28" alt="Wiek" /></a>
+<img src="https://wiek-gh-1.vercel.app/api/wiek" height="28" alt="Wiek" />
 <img src="https://img.shields.io/badge/ZIELONA%20G%C3%93RA-22c55e?style=for-the-badge" height="28" alt="Zielona Góra" />
 <img src="https://img.shields.io/badge/CKZiU%20ELEKTRONIK-3b82f6?style=for-the-badge" height="28" alt="CKZiU Elektronik" />
 
@@ -37,7 +37,7 @@
 
 <a href="https://wojtoteka.ovh/kontakt"><img src="https://img.shields.io/badge/Kontakt-wojtoteka.ovh%2Fkontakt-050505?style=for-the-badge&logo=googlechrome&logoColor=2DD4BF" height="28" alt="Kontakt" /></a>
 <a href="mailto:kontakt@wojtoteka.ovh"><img src="https://img.shields.io/badge/Email-kontakt%40wojtoteka.ovh-050505?style=for-the-badge&logo=gmail&logoColor=2DD4BF" height="28" alt="Email" /></a>
-<img src="https://img.shields.io/badge/Discord-wojtoteka__-050505?style=for-the-badge&logo=discord&logoColor=2DD4BF" height="28" alt="Discord" />
+<a href="https://discord.com/users/1328758394588500024"><img src="https://img.shields.io/badge/Discord-wojtoteka__-050505?style=for-the-badge&logo=discord&logoColor=2DD4BF" height="28" alt="Discord" /></a>
 <a href="https://play.google.com/store/apps/developer?id=Wojtoteka"><img src="https://img.shields.io/badge/Google%20Play-Wojtoteka-050505?style=for-the-badge&logo=googleplay&logoColor=2DD4BF" height="28" alt="Google Play" /></a>
 <a href="https://wojtoteka.ovh/gry"><img src="https://img.shields.io/badge/Moje%20Gry-wojtoteka.ovh%2Fgry-050505?style=for-the-badge&logo=googlechrome&logoColor=2DD4BF" height="28" alt="Moje gry" /></a>
 
