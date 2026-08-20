@@ -35,26 +35,13 @@
 
 <div align="center">
 
-<a href="https://github.com/Wojtoteka/litho-studio"><img src="https://img.shields.io/badge/Litho%20Studio-050505?style=for-the-badge&logo=electron&logoColor=2DD4BF" height="28" alt="Litho Studio" /></a>
-<a href="https://github.com/Wojtoteka/kajet_apk"><img src="https://img.shields.io/badge/Kajet-050505?style=for-the-badge&logo=android&logoColor=2DD4BF" height="28" alt="Kajet" /></a>
-<a href="https://github.com/Wojtoteka/discord-casino-bot"><img src="https://img.shields.io/badge/Casino%20Bot-050505?style=for-the-badge&logo=discord&logoColor=2DD4BF" height="28" alt="Discord Casino Bot" /></a>
-<a href="https://github.com/Wojtoteka/symulator-wsioka-kaucyjnego"><img src="https://img.shields.io/badge/Symulator%20Wsioka-050505?style=for-the-badge&logo=godotengine&logoColor=2DD4BF" height="28" alt="Symulator Wsioka Kaucyjnego" /></a>
+<a href="https://github.com/Wojtoteka/litho-studio"><img width="400" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=Wojtoteka&repo=litho-studio&hide_border=true&bg_color=050505&title_color=2DD4BF&text_color=ffffff&icon_color=2DD4BF" alt="Litho Studio" /></a>
+<a href="https://github.com/Wojtoteka/kajet_apk"><img width="400" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=Wojtoteka&repo=kajet_apk&hide_border=true&bg_color=050505&title_color=2DD4BF&text_color=ffffff&icon_color=2DD4BF" alt="Kajet" /></a>
+
+<a href="https://github.com/Wojtoteka/discord-casino-bot"><img width="400" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=Wojtoteka&repo=discord-casino-bot&hide_border=true&bg_color=050505&title_color=2DD4BF&text_color=ffffff&icon_color=2DD4BF" alt="Discord Casino Bot" /></a>
+<a href="https://github.com/Wojtoteka/symulator-wsioka-kaucyjnego"><img width="400" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=Wojtoteka&repo=symulator-wsioka-kaucyjnego&hide_border=true&bg_color=050505&title_color=2DD4BF&text_color=ffffff&icon_color=2DD4BF" alt="Symulator Wsioka Kaucyjnego" /></a>
 
 </div>
-
-<br/>
-
-**[Litho Studio](https://github.com/Wojtoteka/litho-studio)** · Electron + TypeScript<br/>
-Wizualny edytor stron, który edytuje prawdziwe pliki HTML, CSS i JS na dysku. Bez formatu projektu, bez kroku eksportu — w każdej chwili można wrócić do zwykłego edytora tekstu.
-
-**[Kajet](https://github.com/Wojtoteka/kajet_apk)** · Kotlin + Jetpack Compose<br/>
-Notatnik na Androida: pismo odręczne, Markdown i mapy myśli. Synchronizuje się z własnym backendem — [kajet_server](https://github.com/Wojtoteka/kajet_server).
-
-**[Discord Casino Bot](https://github.com/Wojtoteka/discord-casino-bot)** · TypeScript<br/>
-19 gier, wirtualna ekonomia z kredytami, osiągnięcia, questy i osobny bot administracyjny.
-
-**[Symulator Wsioka Kaucyjnego](https://github.com/Wojtoteka/symulator-wsioka-kaucyjnego)** · Godot 4.3<br/>
-Gra 3D o zbieraniu butelek na kaucję. Zrobiona pół żartem, ale z pełnym systemem ekonomii i kariery.
 
 <br/>
 
@@ -87,11 +74,8 @@ Gra 3D o zbieraniu butelek na kaucję. Zrobiona pół żartem, ale z pełnym sys
 
 <div align="center">
 
-<img width="450" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Wojtoteka&show_icons=true&count_private=true&hide_border=true&bg_color=050505&title_color=2DD4BF&icon_color=2DD4BF&text_color=ffffff" alt="Statystyki GitHub" />
-
-<br/>
-
-<img width="450" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Wojtoteka&layout=compact&hide_border=true&bg_color=050505&title_color=2DD4BF&text_color=ffffff" alt="Najczęściej używane języki" />
+<img height="180" src="https://github-readme-stats-salesp07.vercel.app/api?username=Wojtoteka&show_icons=true&count_private=true&hide_border=true&bg_color=050505&title_color=2DD4BF&text_color=ffffff&icon_color=2DD4BF" alt="Statystyki GitHub" />
+<img height="180" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Wojtoteka&layout=compact&hide_border=true&bg_color=050505&title_color=2DD4BF&text_color=ffffff&icon_color=2DD4BF" alt="Najczęściej używane języki" />
 
 </div>
 
