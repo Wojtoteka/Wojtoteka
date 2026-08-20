@@ -18,7 +18,8 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,mysql,mariadb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,mysql&theme=dark" />
+<img src="https://img.shields.io/badge/MariaDB-050505?style=for-the-badge&logo=mariadb&logoColor=2DD4BF" />
 
 </div>
 
