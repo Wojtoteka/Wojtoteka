@@ -18,10 +18,9 @@ def main():
 
     age = compute_age()
     new_content = re.sub(
-        r"<!--AGE_START-->.*?<!--AGE_END-->",
-        f"<!--AGE_START-->{age}<!--AGE_END-->",
+        r"\d+_LAT-f59e0b",
+        f"{age}_LAT-f59e0b",
         content,
-        flags=re.S,
     )
 
     if new_content != content:
