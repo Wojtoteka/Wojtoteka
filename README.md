@@ -33,15 +33,16 @@
 
 ## 🚀 Wybrane projekty
 
-<div align="center">
-
-<a href="https://github.com/Wojtoteka/litho-studio"><img width="400" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=Wojtoteka&repo=litho-studio&hide_border=true&bg_color=050505&title_color=2DD4BF&text_color=ffffff&icon_color=2DD4BF" alt="Litho Studio" /></a>
-<a href="https://github.com/Wojtoteka/kajet_apk"><img width="400" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=Wojtoteka&repo=kajet_apk&hide_border=true&bg_color=050505&title_color=2DD4BF&text_color=ffffff&icon_color=2DD4BF" alt="Kajet" /></a>
-
-<a href="https://github.com/Wojtoteka/discord-casino-bot"><img width="400" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=Wojtoteka&repo=discord-casino-bot&hide_border=true&bg_color=050505&title_color=2DD4BF&text_color=ffffff&icon_color=2DD4BF" alt="Discord Casino Bot" /></a>
-<a href="https://github.com/Wojtoteka/symulator-wsioka-kaucyjnego"><img width="400" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=Wojtoteka&repo=symulator-wsioka-kaucyjnego&hide_border=true&bg_color=050505&title_color=2DD4BF&text_color=ffffff&icon_color=2DD4BF" alt="Symulator Wsioka Kaucyjnego" /></a>
-
-</div>
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/Wojtoteka/litho-studio"><img width="100%" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=Wojtoteka&repo=litho-studio&hide_border=true&bg_color=050505&title_color=2DD4BF&text_color=ffffff&icon_color=2DD4BF" alt="Litho Studio" /></a></td>
+<td width="50%" valign="top"><a href="https://github.com/Wojtoteka/kajet_apk"><img width="100%" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=Wojtoteka&repo=kajet_apk&hide_border=true&bg_color=050505&title_color=2DD4BF&text_color=ffffff&icon_color=2DD4BF" alt="Kajet" /></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/Wojtoteka/discord-casino-bot"><img width="100%" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=Wojtoteka&repo=discord-casino-bot&hide_border=true&bg_color=050505&title_color=2DD4BF&text_color=ffffff&icon_color=2DD4BF" alt="Discord Casino Bot" /></a></td>
+<td width="50%" valign="top"><a href="https://github.com/Wojtoteka/symulator-wsioka-kaucyjnego"><img width="100%" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=Wojtoteka&repo=symulator-wsioka-kaucyjnego&hide_border=true&bg_color=050505&title_color=2DD4BF&text_color=ffffff&icon_color=2DD4BF" alt="Symulator Wsioka Kaucyjnego" /></a></td>
+</tr>
+</table>
 
 <br/>
 
@@ -72,12 +73,12 @@
 
 ## 📈 GitHub Analytics
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats-salesp07.vercel.app/api?username=Wojtoteka&show_icons=true&count_private=true&hide_border=true&bg_color=050505&title_color=2DD4BF&text_color=ffffff&icon_color=2DD4BF" alt="Statystyki GitHub" />
-<img height="180" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Wojtoteka&layout=compact&hide_border=true&bg_color=050505&title_color=2DD4BF&text_color=ffffff&icon_color=2DD4BF" alt="Najczęściej używane języki" />
-
-</div>
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top"><img width="100%" src="https://github-readme-stats-salesp07.vercel.app/api?username=Wojtoteka&show_icons=true&count_private=true&card_width=467&hide_border=true&bg_color=050505&title_color=2DD4BF&text_color=ffffff&icon_color=2DD4BF" alt="Statystyki GitHub" /></td>
+<td width="50%" valign="top"><img width="100%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Wojtoteka&layout=compact&card_width=467&langs_count=8&hide_border=true&bg_color=050505&title_color=2DD4BF&text_color=ffffff&icon_color=2DD4BF" alt="Najczęściej używane języki" /></td>
+</tr>
+</table>
 
 <br/>
 
