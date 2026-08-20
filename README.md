@@ -31,6 +31,16 @@
 
 <br/>
 
+## 🎮 Profil Discord
+
+<div align="center">
+
+<a href="https://discord.com/users/1328758394588500024"><img src="https://wiek-gh-1.vercel.app/api/discord" width="100%" alt="Profil Discord" /></a>
+
+</div>
+
+<br/>
+
 ## 🚀 Wybrane projekty
 
 <table align="center" width="100%">
