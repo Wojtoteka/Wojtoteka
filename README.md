@@ -18,7 +18,7 @@
 
 <div align="center">
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,nextjs,mysql,mariadb&theme=dark" height="48" alt="HTML, CSS, JavaScript, TypeScript, Next.js, MySQL, MariaDB" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,nextjs,mysql,mariadb,kotlin,gradle,nginx,nodejs,docker,py&theme=dark" height="48" alt="HTML, CSS, JavaScript, TypeScript, Next.js, MySQL, MariaDB, Kotlin, Gradle, Nginx, Node.js, Docker, Python" />
 
 </div>
 
