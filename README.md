@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=200&section=header&text=Cze%C5%9B%C4%87,%20jestem%20Wojtek%20%F0%9F%91%8B&fontSize=38&fontColor=2DD4BF&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:134e4a,100:0f766e&height=200&section=header&text=Cze%C5%9B%C4%87,%20jestem%20Wojtek%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Ucze%C5%84+si%C4%99+programowania+%F0%9F%92%BB;Elektronik+%40+CKZiU+nr+2+Zielona+G%C3%B3ra;Front-end+%2B+back-end+%2B+bazy+danych&font=Fira%20Code&size=20&pause=1500&color=2DD4BF&center=true&vCenter=true&width=600" alt="Typing SVG" />
 
@@ -18,8 +18,8 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,mysql&theme=dark" />
-<img src="https://img.shields.io/badge/MariaDB-050505?style=for-the-badge&logo=mariadb&logoColor=2DD4BF" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,mysql&theme=dark" height="48" />
+<img src="https://cdn.simpleicons.org/mariadb/2DD4BF" height="48" />
 
 </div>
 
@@ -61,6 +61,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,100:134e4a&height=100&section=footer" width="100%"/>
 
 </div>
